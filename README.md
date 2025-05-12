@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Any Kind of Project**
 
-- 💬 Ask me about **MERN,Python and Basic Anything You want**
+- 💬 Ask me about **MERN,Python and Basic,Anything You want**
 
 - 📫 How to reach me **iamarpankhan@gmail.com**
 
