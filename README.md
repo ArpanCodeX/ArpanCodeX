@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Full-Stack Development, Python Projects, or anything tech-related**
 
-- 📫 How to reach me **arpankhan.tech**
+- 📫 How to reach me <a href="https://www.arpankhan.tech/" target="_blank">arpankhan.tech</a>
 
 - ⚡ Fun fact **I enjoy turning ideas into working apps**
 
