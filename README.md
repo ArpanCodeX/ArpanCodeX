@@ -12,19 +12,20 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
 
-- 🔭 I’m currently working on **Gym Management**
+- 🔭 I’m currently working on **a Smart Gym Management Application**
 
-- 🌱 I’m currently learning **React Native, Vite**
+- 🌱 I’m currently learning **React Native for mobile apps and Vite for fast development**
 
-- 👯 I’m looking to collaborate on **Mobile Apps**
+- 👯 I’m looking to collaborate on **innovative mobile and web app projects**
 
-- 🤝 I’m looking for help with **Any Kind of Project**
+- 🤝 I’m looking for help with **building scalable, real-world applications**
 
-- 💬 Ask me about **MERN,Python and Basic,Anything You want**
+- 💬 Ask me about **Full-Stack Development, Python Projects, or anything tech-related**
 
-- 📫 How to reach me **arpankhan.vercrl.app**
+- 📫 How to reach me **arpankhan.tech**
 
-- ⚡ Fun fact **I think Codding Is Fun**
+- ⚡ Fun fact **I enjoy turning ideas into working apps**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
