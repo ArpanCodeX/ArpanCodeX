@@ -64,6 +64,9 @@
 
 ---
 
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arpancodex&theme=aura" height="180em" />
+---
+
 # 🐍 **GitHub Contribution Snake**
 <p align="center">
   <img src="https://github.com/ArpanCodeX/ArpanCodeX/blob/output/github-snake-dark.svg"/>
