@@ -64,9 +64,6 @@
 
 ---
 
- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arpancodex&theme=aura" height="180em" />
----
-
 # 🐍 **GitHub Contribution Snake**
 <p align="center">
   <img src="https://github.com/ArpanCodeX/ArpanCodeX/blob/output/github-snake-dark.svg"/>
@@ -76,7 +73,8 @@
 
 # 📊 **GitHub Stats**
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpancodex&show_icons=true&locale=en&layout=compact" alt="arpancodex" /></p>
+
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arpancodex&theme=aura" height="180em" />
 </div>
 
 
