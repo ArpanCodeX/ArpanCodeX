@@ -41,7 +41,7 @@
 - 👯 I love collaborating on **web & mobile apps**
 - 🤝 Open to help build **real-world scalable apps**
 - 💬 Ask me about **Full Stack, Python, AI, and UI/UX**
-- 🌐 Portfolio → **https://www.arpankhan.tech**
+- 🌐 Portfolio → **https://arpankhan.in**
 - ⚡ Fun Fact → **I make ideas come alive**
 
 ---
